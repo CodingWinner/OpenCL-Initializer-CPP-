@@ -1,0 +1,9 @@
+#ifndef OPENCL_INITIALIZER_HPP
+#define OPENCL_INITIALIZER_HPP
+
+#include "opencl.hpp"
+
+#define OPENCL_INITIALIZER_PROFILE 0 >> 1
+#define OPENCL_INITIALIZER_OUT_OF_ORDER 1 >> 1
+
+#endif
